@@ -26,7 +26,7 @@ __Latest version requires iOS 8+ and Xcode 7.3+__
 Add the following line in your `Podfile`.
 
 ```
-pod "JSONHelper"
+pod "JSONHelper", :git => 'https://github.com/yaron3/JSONHelper.git'
 ```
 
 ### [Carthage](https://github.com/Carthage/Carthage#installing-carthage)
